@@ -1,3 +1,4 @@
+# (c) anupamkumar08 --->https://github.com/anupamkumar08
 import tweepy
 import time
 import os, random 
